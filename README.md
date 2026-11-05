@@ -1,2 +1,2 @@
-# Team Project - Ananda
-Team collaboration using Git
+# Team Project - Ananda and Akasha
+
